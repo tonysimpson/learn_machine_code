@@ -1,0 +1,7 @@
+black
+flake8
+ipython
+jupyter
+distorm3
+git+https://github.com/Maratyszcza/PeachPy.git@84e60a525e6f0788e88e090a11c5eb3b0e51a185
+

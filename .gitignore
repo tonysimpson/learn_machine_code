@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+__pycache__
+.pytest_cache
+.vscode
+.coverage
+htmlcov
+.venv
+*.swp
+*~
+.idea
+*.DS_Store
+
